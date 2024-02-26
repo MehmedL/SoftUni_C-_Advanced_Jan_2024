@@ -1,0 +1,15 @@
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\bin\Debug\net7.0\06. Wardrobe.exe
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\bin\Debug\net7.0\06. Wardrobe.deps.json
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\bin\Debug\net7.0\06. Wardrobe.runtimeconfig.json
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\bin\Debug\net7.0\06. Wardrobe.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\bin\Debug\net7.0\06. Wardrobe.pdb
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\06. Wardrobe.csproj.AssemblyReference.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\06. Wardrobe.AssemblyInfo.cs
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\06. Wardrobe.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\refint\06. Wardrobe.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\06. Wardrobe.pdb
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\06. Wardrobe.genruntimeconfig.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\06. Wardrobe\obj\Debug\net7.0\ref\06. Wardrobe.dll

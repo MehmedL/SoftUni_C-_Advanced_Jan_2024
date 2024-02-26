@@ -1,0 +1,15 @@
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\bin\Debug\net7.0\3.Largest 3 Numbers.exe
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\bin\Debug\net7.0\3.Largest 3 Numbers.deps.json
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\bin\Debug\net7.0\3.Largest 3 Numbers.runtimeconfig.json
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\bin\Debug\net7.0\3.Largest 3 Numbers.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\bin\Debug\net7.0\3.Largest 3 Numbers.pdb
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\3.Largest 3 Numbers.csproj.AssemblyReference.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\3.Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\3.Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\3.Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\3.Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\3.Largest 3 Numbers.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\refint\3.Largest 3 Numbers.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\3.Largest 3 Numbers.pdb
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\3.Largest 3 Numbers.genruntimeconfig.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\3.Largest 3 Numbers\obj\Debug\net7.0\ref\3.Largest 3 Numbers.dll

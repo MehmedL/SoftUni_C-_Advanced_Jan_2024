@@ -1,0 +1,15 @@
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\Counts.exe
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\Counts.deps.json
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\Counts.runtimeconfig.json
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\Counts.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\Counts.pdb
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\Counts.csproj.AssemblyReference.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\Counts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\Counts.AssemblyInfoInputs.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\Counts.AssemblyInfo.cs
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\Counts.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\Counts.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\refint\Counts.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\Counts.pdb
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\Counts.genruntimeconfig.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\ref\Counts.dll

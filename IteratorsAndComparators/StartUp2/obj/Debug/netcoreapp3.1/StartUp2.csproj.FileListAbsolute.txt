@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\bin\Debug\netcoreapp3.1\StartUp2.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\bin\Debug\netcoreapp3.1\StartUp2.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\bin\Debug\netcoreapp3.1\StartUp2.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\bin\Debug\netcoreapp3.1\StartUp2.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\bin\Debug\netcoreapp3.1\StartUp2.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\bin\Debug\netcoreapp3.1\StartUp2.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\obj\Debug\netcoreapp3.1\StartUp2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\obj\Debug\netcoreapp3.1\StartUp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\obj\Debug\netcoreapp3.1\StartUp2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\obj\Debug\netcoreapp3.1\StartUp2.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\obj\Debug\netcoreapp3.1\StartUp2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\obj\Debug\netcoreapp3.1\StartUp2.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\obj\Debug\netcoreapp3.1\StartUp2.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\IteratorsAndComparators\StartUp2\obj\Debug\netcoreapp3.1\StartUp2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\bin\Debug\netcoreapp3.1\AutomotiveRepairShop.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\bin\Debug\netcoreapp3.1\AutomotiveRepairShop.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\bin\Debug\netcoreapp3.1\AutomotiveRepairShop.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\bin\Debug\netcoreapp3.1\AutomotiveRepairShop.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\bin\Debug\netcoreapp3.1\AutomotiveRepairShop.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\bin\Debug\netcoreapp3.1\AutomotiveRepairShop.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\obj\Debug\netcoreapp3.1\AutomotiveRepairShop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\obj\Debug\netcoreapp3.1\AutomotiveRepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\obj\Debug\netcoreapp3.1\AutomotiveRepairShop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\obj\Debug\netcoreapp3.1\AutomotiveRepairShop.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\obj\Debug\netcoreapp3.1\AutomotiveRepairShop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\obj\Debug\netcoreapp3.1\AutomotiveRepairShop.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\obj\Debug\netcoreapp3.1\AutomotiveRepairShop.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\AutomotiveRepairShop\obj\Debug\netcoreapp3.1\AutomotiveRepairShop.genruntimeconfig.cache

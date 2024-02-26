@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\bin\Debug\net6.0\StarUp.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\bin\Debug\net6.0\StarUp.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\bin\Debug\net6.0\StarUp.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\bin\Debug\net6.0\StarUp.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\bin\Debug\net6.0\StarUp.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\StarUp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\StarUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\StarUp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\StarUp.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\StarUp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\StarUp.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\refint\StarUp.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\StarUp.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\StarUp.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StarUp\obj\Debug\net6.0\ref\StarUp.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\bin\Debug\net7.0\02.Squares in Matrix.exe
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\bin\Debug\net7.0\02.Squares in Matrix.deps.json
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\bin\Debug\net7.0\02.Squares in Matrix.runtimeconfig.json
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\bin\Debug\net7.0\02.Squares in Matrix.dll
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\bin\Debug\net7.0\02.Squares in Matrix.pdb
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\02.Squares in Matrix.csproj.AssemblyReference.cache
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\02.Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\02.Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\02.Squares in Matrix.AssemblyInfo.cs
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\02.Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\02.Squares in Matrix.dll
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\refint\02.Squares in Matrix.dll
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\02.Squares in Matrix.pdb
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\02.Squares in Matrix.genruntimeconfig.cache
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\02.Squares in Matrix\obj\Debug\net7.0\ref\02.Squares in Matrix.dll

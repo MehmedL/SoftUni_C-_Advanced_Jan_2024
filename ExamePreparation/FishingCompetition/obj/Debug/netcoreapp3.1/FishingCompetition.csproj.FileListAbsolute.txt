@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\bin\Debug\netcoreapp3.1\FishingCompetition.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\bin\Debug\netcoreapp3.1\FishingCompetition.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\bin\Debug\netcoreapp3.1\FishingCompetition.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\bin\Debug\netcoreapp3.1\FishingCompetition.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\bin\Debug\netcoreapp3.1\FishingCompetition.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\bin\Debug\netcoreapp3.1\FishingCompetition.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\obj\Debug\netcoreapp3.1\FishingCompetition.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\obj\Debug\netcoreapp3.1\FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\obj\Debug\netcoreapp3.1\FishingCompetition.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\obj\Debug\netcoreapp3.1\FishingCompetition.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\obj\Debug\netcoreapp3.1\FishingCompetition.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\obj\Debug\netcoreapp3.1\FishingCompetition.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\obj\Debug\netcoreapp3.1\FishingCompetition.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation\FishingCompetition\obj\Debug\netcoreapp3.1\FishingCompetition.genruntimeconfig.cache

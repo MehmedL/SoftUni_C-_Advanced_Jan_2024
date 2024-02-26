@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Classes\02. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.genruntimeconfig.cache

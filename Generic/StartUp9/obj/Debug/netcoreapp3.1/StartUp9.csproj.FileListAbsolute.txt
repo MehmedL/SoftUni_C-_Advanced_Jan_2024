@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\bin\Debug\netcoreapp3.1\StartUp9.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\bin\Debug\netcoreapp3.1\StartUp9.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\bin\Debug\netcoreapp3.1\StartUp9.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\bin\Debug\netcoreapp3.1\StartUp9.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\bin\Debug\netcoreapp3.1\StartUp9.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\bin\Debug\netcoreapp3.1\StartUp9.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\obj\Debug\netcoreapp3.1\StartUp9.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\obj\Debug\netcoreapp3.1\StartUp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\obj\Debug\netcoreapp3.1\StartUp9.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\obj\Debug\netcoreapp3.1\StartUp9.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\obj\Debug\netcoreapp3.1\StartUp9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\obj\Debug\netcoreapp3.1\StartUp9.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\obj\Debug\netcoreapp3.1\StartUp9.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp9\obj\Debug\netcoreapp3.1\StartUp9.genruntimeconfig.cache

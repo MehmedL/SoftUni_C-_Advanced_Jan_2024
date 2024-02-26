@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\bin\Debug\net6.0\3.Generic Swap Method Strings.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\bin\Debug\net6.0\3.Generic Swap Method Strings.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\bin\Debug\net6.0\3.Generic Swap Method Strings.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\bin\Debug\net6.0\3.Generic Swap Method Strings.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\bin\Debug\net6.0\3.Generic Swap Method Strings.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\3.Generic Swap Method Strings.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\3.Generic Swap Method Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\3.Generic Swap Method Strings.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\3.Generic Swap Method Strings.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\3.Generic Swap Method Strings.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\3.Generic Swap Method Strings.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\refint\3.Generic Swap Method Strings.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\3.Generic Swap Method Strings.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\3.Generic Swap Method Strings.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\StartUp\obj\Debug\net6.0\ref\3.Generic Swap Method Strings.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\bin\Debug\net7.0\01. Even Lines.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\bin\Debug\net7.0\01. Even Lines.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\bin\Debug\net7.0\01. Even Lines.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\bin\Debug\net7.0\01. Even Lines.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\bin\Debug\net7.0\01. Even Lines.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\01. Even Lines.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\01. Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\01. Even Lines.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\01. Even Lines.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\01. Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\01. Even Lines.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\refint\01. Even Lines.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\01. Even Lines.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\01. Even Lines.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Streams,Files and Directories\01. Even Lines\obj\Debug\net7.0\ref\01. Even Lines.dll

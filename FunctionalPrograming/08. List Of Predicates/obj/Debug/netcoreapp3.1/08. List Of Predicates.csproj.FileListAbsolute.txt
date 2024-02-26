@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\FunctionalPrograming\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.genruntimeconfig.cache

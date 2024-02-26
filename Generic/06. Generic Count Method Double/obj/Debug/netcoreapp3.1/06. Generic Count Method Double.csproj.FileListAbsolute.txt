@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\bin\Debug\netcoreapp3.1\06. Generic Count Method Double.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\bin\Debug\netcoreapp3.1\06. Generic Count Method Double.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\bin\Debug\netcoreapp3.1\06. Generic Count Method Double.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\bin\Debug\netcoreapp3.1\06. Generic Count Method Double.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\bin\Debug\netcoreapp3.1\06. Generic Count Method Double.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\bin\Debug\netcoreapp3.1\06. Generic Count Method Double.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\obj\Debug\netcoreapp3.1\06. Generic Count Method Double.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\obj\Debug\netcoreapp3.1\06. Generic Count Method Double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\obj\Debug\netcoreapp3.1\06. Generic Count Method Double.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\obj\Debug\netcoreapp3.1\06. Generic Count Method Double.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\obj\Debug\netcoreapp3.1\06. Generic Count Method Double.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\obj\Debug\netcoreapp3.1\06. Generic Count Method Double.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\obj\Debug\netcoreapp3.1\06. Generic Count Method Double.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\06. Generic Count Method Double\obj\Debug\netcoreapp3.1\06. Generic Count Method Double.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\1. Count Same Values in Array.exe
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\1. Count Same Values in Array.deps.json
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\1. Count Same Values in Array.runtimeconfig.json
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\1. Count Same Values in Array.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\bin\Debug\net7.0\1. Count Same Values in Array.pdb
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\1. Count Same Values in Array.csproj.AssemblyReference.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\1. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\1. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\1. Count Same Values in Array.AssemblyInfo.cs
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\1. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\1. Count Same Values in Array.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\refint\1. Count Same Values in Array.dll
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\1. Count Same Values in Array.pdb
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\1. Count Same Values in Array.genruntimeconfig.cache
+C:\Users\user\Documents\SoftUni\SetsAndDictionarys\Counts\obj\Debug\net7.0\ref\1. Count Same Values in Array.dll

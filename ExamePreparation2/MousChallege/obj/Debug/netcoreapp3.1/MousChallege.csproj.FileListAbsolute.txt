@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\obj\Debug\netcoreapp3.1\MousChallege.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\obj\Debug\netcoreapp3.1\MousChallege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\obj\Debug\netcoreapp3.1\MousChallege.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\obj\Debug\netcoreapp3.1\MousChallege.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\obj\Debug\netcoreapp3.1\MousChallege.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\bin\Debug\netcoreapp3.1\MousChallege.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\bin\Debug\netcoreapp3.1\MousChallege.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\bin\Debug\netcoreapp3.1\MousChallege.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\bin\Debug\netcoreapp3.1\MousChallege.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\bin\Debug\netcoreapp3.1\MousChallege.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\bin\Debug\netcoreapp3.1\MousChallege.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\obj\Debug\netcoreapp3.1\MousChallege.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\obj\Debug\netcoreapp3.1\MousChallege.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\MousChallege\obj\Debug\netcoreapp3.1\MousChallege.genruntimeconfig.cache

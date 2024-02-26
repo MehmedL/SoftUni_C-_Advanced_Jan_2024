@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\bin\Debug\netcoreapp3.1\ExamePreparation2.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\bin\Debug\netcoreapp3.1\ExamePreparation2.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\bin\Debug\netcoreapp3.1\ExamePreparation2.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\bin\Debug\netcoreapp3.1\ExamePreparation2.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\bin\Debug\netcoreapp3.1\ExamePreparation2.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\bin\Debug\netcoreapp3.1\ExamePreparation2.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\obj\Debug\netcoreapp3.1\ExamePreparation2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\obj\Debug\netcoreapp3.1\ExamePreparation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\obj\Debug\netcoreapp3.1\ExamePreparation2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\obj\Debug\netcoreapp3.1\ExamePreparation2.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\obj\Debug\netcoreapp3.1\ExamePreparation2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\obj\Debug\netcoreapp3.1\ExamePreparation2.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\obj\Debug\netcoreapp3.1\ExamePreparation2.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\ExamePreparation2\ExamePreparation2\obj\Debug\netcoreapp3.1\ExamePreparation2.genruntimeconfig.cache

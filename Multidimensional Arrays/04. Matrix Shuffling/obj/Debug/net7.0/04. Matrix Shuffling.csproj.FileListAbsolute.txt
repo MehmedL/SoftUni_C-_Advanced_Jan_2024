@@ -1,0 +1,15 @@
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.exe
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.deps.json
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.runtimeconfig.json
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.dll
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net7.0\04. Matrix Shuffling.pdb
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.dll
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\refint\04. Matrix Shuffling.dll
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.pdb
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\04. Matrix Shuffling.genruntimeconfig.cache
+C:\Users\user\Documents\SoftUni\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net7.0\ref\04. Matrix Shuffling.dll

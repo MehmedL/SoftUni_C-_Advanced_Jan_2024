@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\bin\Debug\netcoreapp3.1\5.Generic Count Method Strings.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\bin\Debug\netcoreapp3.1\5.Generic Count Method Strings.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\bin\Debug\netcoreapp3.1\5.Generic Count Method Strings.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\bin\Debug\netcoreapp3.1\5.Generic Count Method Strings.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\bin\Debug\netcoreapp3.1\5.Generic Count Method Strings.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\bin\Debug\netcoreapp3.1\5.Generic Count Method Strings.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\obj\Debug\netcoreapp3.1\5.Generic Count Method Strings.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\obj\Debug\netcoreapp3.1\5.Generic Count Method Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\obj\Debug\netcoreapp3.1\5.Generic Count Method Strings.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\obj\Debug\netcoreapp3.1\5.Generic Count Method Strings.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\obj\Debug\netcoreapp3.1\5.Generic Count Method Strings.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\obj\Debug\netcoreapp3.1\5.Generic Count Method Strings.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\obj\Debug\netcoreapp3.1\5.Generic Count Method Strings.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\Softuni Advance\Generic\5.Generic Count Method Strings\obj\Debug\netcoreapp3.1\5.Generic Count Method Strings.genruntimeconfig.cache
